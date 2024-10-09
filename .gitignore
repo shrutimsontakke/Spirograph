@@ -1,4 +1,4 @@
-trail.txt
+trial.txt
 # Ignore Python bytecode
 __pycache__/
 *.pyc
