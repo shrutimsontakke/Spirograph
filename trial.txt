@@ -1,0 +1,18 @@
+# for i in range(4):
+#     tim_the_turtle.forward(100)
+#     tim_the_turtle.right(90)
+
+# or def square():
+#     i = 1
+#     while(i<5):
+#         timmy_the_turtle.forward(100)
+#         timmy_the_turtle.right(90)
+#         i += 1
+# square()
+
+# for _ in range(15):
+#     tim.forward(10)
+#     tim.penup()
+#     tim.forward(10)
+#     tim.pendown()
+# tim.right(180-)

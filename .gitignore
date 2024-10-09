@@ -1,0 +1,13 @@
+trail.txt
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore virtual environment files
+venv/
+.env/
+ENV/
